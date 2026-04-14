@@ -6,7 +6,7 @@ A simple and user-friendly weather application that provides real-time weather i
 
 Check out the live version of WeatherApp here: **[WeatherApp Live](https://aishhhwaryaa.github.io/WeatherApp/)**
 
-## ✨ Features
+##  Features
 
 - 🌡️ Real-time weather data
 - 🌍 Search weather for any city worldwide
@@ -15,20 +15,20 @@ Check out the live version of WeatherApp here: **[WeatherApp Live](https://aishh
 - 📱 Responsive design for all devices
 - ⚡ Fast and lightweight
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5** - Markup structure
 - **CSS3** - Styling and responsive design
 - **JavaScript** - Dynamic functionality and API integration
 
-## 📝 How to Use
+##  How to Use
 
 1. Visit the [live application](https://aishhhwaryaa.github.io/WeatherApp/)
 2. Enter a city name in the search box
 3. View the current weather conditions for that location
 4. Weather data includes temperature, feels-like temperature, humidity, wind speed, and more
 
-## 💻 Installation & Local Setup
+##  Installation & Local Setup
 
 To run this project locally:
 
@@ -43,7 +43,7 @@ cd WeatherApp
 # Simply open index.html in your preferred web browser
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 WeatherApp/
@@ -53,16 +53,17 @@ WeatherApp/
 └── README.md       # Documentation
 ```
 
-## 🔗 Links
+##  Links
 
 - **GitHub Repository**: [Aishhhwaryaa/WeatherApp](https://github.com/Aishhhwaryaa/WeatherApp)
 - **Live Demo**: [https://aishhhwaryaa.github.io/WeatherApp/](https://aishhhwaryaa.github.io/WeatherApp/)
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
 
-## 👩‍💻 Author
+##  Author
+Aishwarya V
 
 Created by [Aishhhwaryaa](https://github.com/Aishhhwaryaa)
 
