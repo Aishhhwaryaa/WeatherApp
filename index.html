@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fancy Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <h1>🌤 Fancy Weather App</h1>
+        <div class="search-box">
+            <input type="text" id="cityInput" placeholder="Enter city name...">
+            <button onclick="getWeather()">Search</button>
+        </div>
+
+        <div id="weatherResult" class="card fade-in">
+            <!-- Weather info will appear here -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <div class="rain">
+        <div class="drop" style="left:10%; animation-delay:0s;"></div>
+        <div class="drop" style="left:20%; animation-delay:0.2s;"></div>
+        <div class="drop" style="left:30%; animation-delay:0.4s;"></div>
+        <div class="drop" style="left:40%; animation-delay:0.6s;"></div>
+        <div class="drop" style="left:50%; animation-delay:0.8s;"></div>
+        <div class="drop" style="left:60%; animation-delay:1s;"></div>
+        <div class="drop" style="left:70%; animation-delay:1.2s;"></div>
+        <div class="drop" style="left:80%; animation-delay:1.4s;"></div>
+        <div class="drop" style="left:90%; animation-delay:1.6s;"></div>
+    </div>
+
+</body>
+
+</html>
